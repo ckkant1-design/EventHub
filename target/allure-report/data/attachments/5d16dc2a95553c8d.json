@@ -1,0 +1,9 @@
+{
+  "success" : true,
+  "user" : {
+    "userId" : 23,
+    "email" : "student@example.com",
+    "iat" : 1789555025,
+    "exp" : 1790159825
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
+  "type": "object",
+  "properties": {
+    "success": {
+      "type": "boolean"
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "number"
+        },
+        "title": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string"
+        },
+        "venue": {
+          "type": "string"
+        },
+        "city": {
+          "type": "string"
+        },
+        "eventDate": {
+          "type": "string"
+        },
+        "price": {
+          "type": "string"
+        },
+        "totalSeats": {
+          "type": "number"
+        },
+        "availableSeats": {
+          "type": "number"
+        },
+        "imageUrl": {
+          "type": "string"
+        },
+        "isStatic": {
+          "type": "boolean"
+        },
+        
+        
+        "updatedAt": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "description",
+        "category",
+        "venue",
+        "city",
+        "eventDate",
+        "price",
+        "totalSeats",
+        "availableSeats",
+        "imageUrl",
+        "isStatic",
+
+        "createdAt",
+        "updatedAt"
+      ]
+    }
+  },
+  "required": [
+    "success",
+    "data"
+  ],
+  "additionalProperties": true
+}

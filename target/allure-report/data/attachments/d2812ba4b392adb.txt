@@ -1,0 +1,3 @@
+curl --location --request GET 'https://api.eventhub.rahulshettyacademy.com/api/auth/me' \
+  --header 'Content-Type: application/json' \
+  --data-raw 'io.restassured.internal.RequestSpecificationImpl@555e8f39'

@@ -1,0 +1,5 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","","0","EventHub Authentication API","1","0","Successful login with valid credentials","0"
+"0","","0","Verify Event Hub Functionality","1","0","Verify create event","0"
+"0","","0","EventHub Authentication API","1","0","Retrieve authenticate user","0"
+"1","","0","Verify Event Hub Functionality","0","0","Verify retrieve vevent","0"

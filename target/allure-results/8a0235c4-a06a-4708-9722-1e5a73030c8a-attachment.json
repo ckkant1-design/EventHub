@@ -1,0 +1,1 @@
+"{\n    \"success\": true,\n    \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjQsImVtYWlsIjoic3R1ZGVudEBleGFtcGxlLmNvbSIsImlhdCI6MTc4ODk2OTk4MiwiZXhwIjoxNzg5NTc0NzgyfQ.UBi2T5OWFTkvkkOnbu6ldoE9iT3wi688j0hdFZobOz4\",\n    \"user\": {\n        \"id\": 4,\n        \"email\": \"student@example.com\"\n    }\n}"

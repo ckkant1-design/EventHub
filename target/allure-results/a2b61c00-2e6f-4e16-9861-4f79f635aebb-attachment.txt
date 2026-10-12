@@ -1,0 +1,4 @@
+curl --location --request GET '/auth/me' \
+  --header 'Authorization: Bearer ********' \
+  --header 'Accept: application/json, application/javascript, text/javascript, text/json' \
+  --header 'Content-Type: application/json'

@@ -1,0 +1,8 @@
+{
+  "success" : true,
+  "token" : "********",
+  "user" : {
+    "id" : 4,
+    "email" : "student@example.com"
+  }
+}

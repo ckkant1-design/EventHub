@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"6f009bbe552691241dbbda6d261ab6d7","name":"Verify Event Hub Functionality","statistic":{"failed":0,"broken":1,"skipped":0,"passed":1,"unknown":0,"total":2}},{"uid":"8609270504fac4a687d46dafd9b16ca0","name":"EventHub Authentication API","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

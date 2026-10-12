@@ -1,0 +1,8 @@
+{
+  "success" : false,
+  "error" : "Validation failed",
+  "details" : [ {
+    "field" : "eventDate",
+    "message" : "Event date must be in the future"
+  } ]
+}
